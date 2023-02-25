@@ -1,4 +1,5 @@
 Hello this is the master branch code
+this line updated in dev branch
 Hello,
 
 This file contatins the database related code.
